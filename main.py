@@ -1,0 +1,2 @@
+
+print("Vantage Point")
